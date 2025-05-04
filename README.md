@@ -18,3 +18,13 @@ Celery
 Redis
 Docker
 CI/CD Pipelines
+
+## Team Roles
+•	Backend Developer: Responsible for implementing API endpoints, database schemas, and business logic.
+•	Database Administrator: Manages database design, indexing, and optimizations.
+•	DevOps Engineer: Handles deployment, monitoring, and scaling of the backend services.
+•	QA Engineer: Ensures the backend functionalities are thoroughly tested and meet quality standards.
+• UI/UX Designers: Focus on the user interface (UI) and user experience (UX) of a product, designing layouts, interactions, and flows that are intuitive, accessible, and visually appealing.
+• Software Architects: Design the high-level structure of software systems, making critical decisions about architecture, technologies, and patterns to ensure scalability, maintainability, and performance.
+• Business Analysts (BAs): Bridge the gap between business needs and technical solutions by gathering requirements, analyzing processes, and helping define project scope and objectives.
+• Product Managers (PMs): Oversee the product’s strategy, vision, and roadmap. They align product development with business goals and customer needs, working closely with multiple stakeholders.
