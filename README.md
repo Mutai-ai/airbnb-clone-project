@@ -29,7 +29,7 @@ CI/CD Pipelines
 • Business Analysts (BAs): Bridge the gap between business needs and technical solutions by gathering requirements, analyzing processes, and helping define project scope and objectives.
 • Product Managers (PMs): Oversee the product’s strategy, vision, and roadmap. They align product development with business goals and customer needs, working closely with multiple stakeholders.
 
-## Tehnology Stack
+## Technology Stack
 •	Django: A high-level Python web framework used for building the RESTful API.
 •	Django REST Framework: Provides tools for creating and managing RESTful APIs.
 •	PostgreSQL: A powerful relational database used for data storage.
