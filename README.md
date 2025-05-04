@@ -50,21 +50,21 @@ A booking is for one user.
 
 ## Feature Breakdown
 API Documentation, user authentication, property management, booking system, payment processing, review system and database optimization.
-1. API Documentation
+1. API Documentation:
 API documentation provides clear instructions on how frontend and third-party services can interact with the backend system. It defines available endpoints, request/response formats, and authentication methods, ensuring smooth integration and easier collaboration among developers.
-2. User Authentication
+2. User Authentication:
 User authentication ensures secure access to the platform by allowing users to sign up, log in, and manage sessions using tokens or cookies. This is essential for protecting user data and enabling personalized experiences like bookings, reviews, and property listings.
-3. Property Management
+3. Property Management:
 This feature allows hosts to create, update, and delete property listings, including details like location, pricing, and availability. It empowers users to showcase their spaces and is central to the core functionality of the platform.
 
-4. Booking System
+4. Booking System:
 The booking system enables guests to reserve properties for specific dates while preventing double bookings through availability checks. It tracks reservation details, making it possible to manage stay durations, calculate costs, and support cancellations or changes.
 
-5. Payment Processing
+5. Payment Processing:
 Payment processing securely handles transactions between guests and hosts, including charging, refunds, and status tracking. It ensures trust and smooth financial operations, typically integrating with third-party payment gateways like Stripe or PayPal.
 
-6. Review System
+6. Review System:
 The review system allows users to leave feedback on properties after their stay, including ratings and comments. It builds trust within the platform, helps improve host accountability, and assists future guests in making informed booking decisions.
 
-7. Database Optimization
+7. Database Optimization:
 Database optimization involves indexing, query tuning, and data structuring to improve performance and scalability. It ensures the application runs efficiently, especially as the user base, bookings, and property data grow.
