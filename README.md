@@ -70,13 +70,13 @@ The review system allows users to leave feedback on properties after their stay,
 Database optimization involves indexing, query tuning, and data structuring to improve performance and scalability. It ensures the application runs efficiently, especially as the user base, bookings, and property data grow.
 
 ## API Security
-. Authentication:
+1. Authentication:
 This will ensure that only verified users access their accounts prventing unauthorized access to personal data.
-. Authorization: 
+2. Authorization: 
 This protects system integrity by ensuring that users only perform actions they are permitted to do.
-. Data encryption:
+3. Data encryption:
 Encryption ensures that user data is unreadable if intercepted or breached, maintaining user trust.
-. Secure payment processing:
+4. Secure payment processing:
 Outsourcing payment handling to trusted providers. This reduces the risk of data breaches and ensures compliance with financial regulations.
-. Logging and Monitoring:
+5. Logging and Monitoring:
 Monitor server activity and log security-related events such as failed logins or suspicious transactions help detect intrusions early, respond to threats quickly, and provide forensic data if a breach occurs.
