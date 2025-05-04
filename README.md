@@ -28,3 +28,13 @@ CI/CD Pipelines
 • Software Architects: Design the high-level structure of software systems, making critical decisions about architecture, technologies, and patterns to ensure scalability, maintainability, and performance.
 • Business Analysts (BAs): Bridge the gap between business needs and technical solutions by gathering requirements, analyzing processes, and helping define project scope and objectives.
 • Product Managers (PMs): Oversee the product’s strategy, vision, and roadmap. They align product development with business goals and customer needs, working closely with multiple stakeholders.
+
+## Tehnology Stack
+•	Django: A high-level Python web framework used for building the RESTful API.
+•	Django REST Framework: Provides tools for creating and managing RESTful APIs.
+•	PostgreSQL: A powerful relational database used for data storage.
+•	GraphQL: Allows for flexible and efficient querying of data.
+•	Celery: For handling asynchronous tasks such as sending notifications or processing payments.
+•	Redis: Used for caching and session management.
+•	Docker: Containerization tool for consistent development and deployment environments.
+•	CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
