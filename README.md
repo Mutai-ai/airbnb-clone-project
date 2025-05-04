@@ -38,3 +38,12 @@ CI/CD Pipelines
 •	Redis: Used for caching and session management.
 •	Docker: Containerization tool for consistent development and deployment environments.
 •	CI/CD Pipelines: Automated pipelines for testing and deploying code changes.
+
+## Database Design
+Users, Properties, Bookings, Reviews, and Payments.
+A user can have multiple properties, a booking belongs to a property. 
+A user can write multiple reviews, a review belongs to one property.
+A user can make multiple payments. A payment is linked to one booking.
+A booking has one payment.
+A property have multiple reviews.
+A booking is for one user.
