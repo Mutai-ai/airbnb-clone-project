@@ -80,3 +80,13 @@ Encryption ensures that user data is unreadable if intercepted or breached, main
 Outsourcing payment handling to trusted providers. This reduces the risk of data breaches and ensures compliance with financial regulations.
 5. Logging and Monitoring:
 Monitor server activity and log security-related events such as failed logins or suspicious transactions help detect intrusions early, respond to threats quickly, and provide forensic data if a breach occurs.
+
+## CI/CD Pipeline
+CI/CD (Continuous Integration / Continuous Deployment) pipelines are automated workflows that build, test, and deploy code every time a change is made. CI ensures that new code is continuously integrated into the main codebase with automated testing, while CD automates deployment to production or staging environments.
+### Why they are impportant for the project
+Faster Development: Automates repetitive tasks like testing and deployment, allowing faster feature delivery.
+Fewer Bugs: Catches issues early through automated testing on every commit.
+Consistent Releases: Ensures code is deployed in a predictable and repeatable way.
+Team Collaboration: Makes it easier for multiple developers to contribute without breaking the app.
+### Tools to be used
+GitHub Actions, Docker, Jenkins, Circle CI/Travis CI, Heroke/Netlify/Vercel, AWS CodePipeline/GitLab CI
